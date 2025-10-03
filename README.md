@@ -1,2 +1,2 @@
-# Travel Order
-This is a working example of a basic employee travel order permitting system developed using PHP/MySQL. Please note that this system is no longer actively maintained. It is provided as-is, without any warranty. Thank you
+# E-Attendance
+This is a simple employee attendance system built with PHP/MySQL, and it also available in an Android wrapper. Just a heads-up: it’s no longer being actively maintained and is provided as-is, with no guarantees. Thanks you
